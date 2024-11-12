@@ -1,9 +1,9 @@
+# Echoserver
+Echo server and client using python socket
+
 ### NAME   : SANTHOSH.T
 ### REG NO : 212223220100
 ### DEPARTMENT: INFORMATION TECHNOLOGY
-
-# Echoserver
-Echo server and client using python socket
 
 # AIM:
 
@@ -77,13 +77,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
-![Screenshot 2024-09-16 214320](https://github.com/user-attachments/assets/09dace97-593a-4fdc-87df-defd1b66d651)
-
+![alt text](image.png)
 ### Server side:
-![Screenshot 2024-09-16 214357](https://github.com/user-attachments/assets/1f1c79f7-5610-4871-998e-7ff320c25f56)
-
+![alt text](image-1.png)
 ### Client side:
-![Screenshot 2024-09-16 214337](https://github.com/user-attachments/assets/0550f984-d4d2-4acf-967e-1825e5b7c715)
+![alt text](image-2.png)
 
 ## RESULT:
 The program is executed successfully.
